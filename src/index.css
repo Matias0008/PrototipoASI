@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.disabled {
+  color: #555;
+}
+
+h1 {
+  text-align: start;
+}
+
+.btn-primary {
+  background: #6c5ce7 !important;
+  border-color: #6c5ce7 !important;
+}
